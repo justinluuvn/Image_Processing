@@ -46,6 +46,8 @@ Table of content
 		be saved or discarded.
 	e) Form7 and its associated files
 		These files will creates a new window to select the retaining area of the image when the cropping process is carried out.
+	f) Program.cs
+		This file initializes the program.
 5. Copyright and License
 	Window Operating System and Visual Studio are trademark of the Microsoft Corporation.
 	Other trademarks and trade names are those of their respective owners.
